@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2a60360ffb6c14fbe7907029773c95, type: 3}
+  m_Name: BlockArt
+  m_EditorClassIdentifier: Assembly-CSharp::BlockArt
+  background: {fileID: -1955448553306655712, guid: 08c8ad78177d0f54c9b0b0995ef11621, type: 3}
+  empty: {fileID: -7955918195985675719, guid: a7e1f0ed21c063f478b45fe685e65ad9, type: 3}
+  highlight: {fileID: -9174574736926535998, guid: c8ab6b69ba9b2e14f8e1766d32783c8e, type: 3}
+  popup: {fileID: -7351797229342122418, guid: ffe504bd73de47d45af781f95a9a0ebd, type: 3}
+  gameOver: {fileID: -6899527831451061053, guid: ca6d4bc9068f8414c93229a37b74f067, type: 3}
+  retry: {fileID: 3057419904054296746, guid: b213b3e3cabb2c540ba5054ddbf257db, type: 3}
+  back: {fileID: 5000927251509650613, guid: 26b53f4f926ffc348a827ac1e95ad7bc, type: 3}
+  blocks:
+  - {fileID: -6429493399158520243, guid: 0f4dba02cc22e534f8215942ebc6c380, type: 3}
+  - {fileID: -4987337320017983735, guid: 8dde3c27e3ec3e845868eec15d38ea9a, type: 3}
+  - {fileID: 8821927308724930340, guid: 00afc09c8f4e610449d7593db5cfa1bb, type: 3}
+  - {fileID: -7381184880430962403, guid: 28e0613b6c84c034fbc806146d757991, type: 3}
+  - {fileID: 6286595657586805340, guid: 8b128880acc781245a8024cad7971b70, type: 3}
+  - {fileID: -1629362560720184693, guid: d25cb9302e506a740b9204fa45ac7475, type: 3}
+  - {fileID: 6358040702757662528, guid: 866adb709a31dbc42b2ab29ea0c5520a, type: 3}
+  - {fileID: -5270777365874322635, guid: 72631ddff2139a040ae543dcf6818e1d, type: 3}
