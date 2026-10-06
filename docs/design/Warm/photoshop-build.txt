@@ -1,0 +1,1 @@
+Review-only warm asset kit. Layered cat PNGs with occupied-footprint masks and editable UI text. No live Unity scene references changed. Example scores and boards are design mockups.

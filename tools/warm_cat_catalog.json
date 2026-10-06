@@ -1,0 +1,1408 @@
+[
+  {
+    "name": "single_calico_1x1",
+    "source": "single_calico",
+    "breed": "calico",
+    "expression": "happy",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "3a131839b634fcbb69e6cb5abf074617",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "3a131839b634fcbb69e6cb5abf074617",
+      "type": 3
+    },
+    "region": {
+      "x": 15,
+      "y": 16,
+      "width": 1228,
+      "height": 1212,
+      "xs": [
+        15,
+        1243
+      ],
+      "ys": [
+        16,
+        1228
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 15,
+        "y": 26,
+        "width": 1228,
+        "height": 1212
+      }
+    ]
+  },
+  {
+    "name": "single_black_1x1",
+    "source": "single_black",
+    "breed": "black",
+    "expression": "surprised",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "fe1d5fc94b5a06102a552d353fa2f736",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "fe1d5fc94b5a06102a552d353fa2f736",
+      "type": 3
+    },
+    "region": {
+      "x": 18,
+      "y": 87,
+      "width": 1221,
+      "height": 1084,
+      "xs": [
+        18,
+        1239
+      ],
+      "ys": [
+        87,
+        1171
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 18,
+        "y": 83,
+        "width": 1221,
+        "height": 1084
+      }
+    ]
+  },
+  {
+    "name": "single_white_1x1",
+    "source": "single_white",
+    "breed": "white",
+    "expression": "joyful",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "835984a676280c75b8835d1cca86c44f",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "835984a676280c75b8835d1cca86c44f",
+      "type": 3
+    },
+    "region": {
+      "x": 28,
+      "y": 89,
+      "width": 1203,
+      "height": 1081,
+      "xs": [
+        28,
+        1231
+      ],
+      "ys": [
+        89,
+        1170
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 28,
+        "y": 84,
+        "width": 1203,
+        "height": 1081
+      }
+    ]
+  },
+  {
+    "name": "single_gray_1x1",
+    "source": "single_gray",
+    "breed": "gray",
+    "expression": "sleepy",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "74a489391e509a3d7e2f255504d46f14",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "74a489391e509a3d7e2f255504d46f14",
+      "type": 3
+    },
+    "region": {
+      "x": 37,
+      "y": 72,
+      "width": 1195,
+      "height": 1115,
+      "xs": [
+        37,
+        1232
+      ],
+      "ys": [
+        72,
+        1187
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 37,
+        "y": 67,
+        "width": 1195,
+        "height": 1115
+      }
+    ]
+  },
+  {
+    "name": "single_ginger_1x1",
+    "source": "single_ginger",
+    "breed": "ginger",
+    "expression": "smug",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "efa23b4d9f9ce5e3d577c95ea29a6182",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "efa23b4d9f9ce5e3d577c95ea29a6182",
+      "type": 3
+    },
+    "region": {
+      "x": 44,
+      "y": 60,
+      "width": 1184,
+      "height": 1143,
+      "xs": [
+        44,
+        1228
+      ],
+      "ys": [
+        60,
+        1203
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 44,
+        "y": 51,
+        "width": 1184,
+        "height": 1143
+      }
+    ]
+  },
+  {
+    "name": "single_tuxedo_1x1",
+    "source": "single_tuxedo",
+    "breed": "tuxedo",
+    "expression": "winking",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "d52b41814fa2eb0fbbe5606daacf91e1",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "d52b41814fa2eb0fbbe5606daacf91e1",
+      "type": 3
+    },
+    "region": {
+      "x": 53,
+      "y": 53,
+      "width": 1159,
+      "height": 1151,
+      "xs": [
+        53,
+        1212
+      ],
+      "ys": [
+        53,
+        1204
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 53,
+        "y": 50,
+        "width": 1159,
+        "height": 1151
+      }
+    ]
+  },
+  {
+    "name": "single_siamese_1x1",
+    "source": "single_siamese",
+    "breed": "siamese",
+    "expression": "curious",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "17c924339d0a2f05c74e0bc152d18aad",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "17c924339d0a2f05c74e0bc152d18aad",
+      "type": 3
+    },
+    "region": {
+      "x": 30,
+      "y": 67,
+      "width": 1202,
+      "height": 1128,
+      "xs": [
+        30,
+        1232
+      ],
+      "ys": [
+        67,
+        1195
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 1,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 30,
+        "y": 59,
+        "width": 1202,
+        "height": 1128
+      }
+    ]
+  },
+  {
+    "name": "bar2_tuxedo_2x1",
+    "source": "bar2_tuxedo",
+    "breed": "tuxedo",
+    "expression": "sleeping",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "3100eb476ca42110c82fe09e1a3fd2a7",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "3100eb476ca42110c82fe09e1a3fd2a7",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "d52b41814fa2eb0fbbe5606daacf91e1",
+      "type": 3
+    },
+    "region": {
+      "x": 28,
+      "y": 55,
+      "width": 1721,
+      "height": 765,
+      "xs": [
+        28,
+        888,
+        1749
+      ],
+      "ys": [
+        55,
+        820
+      ],
+      "sourceWidth": 1774,
+      "sourceHeight": 887,
+      "cols": 2,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 28,
+        "y": 67,
+        "width": 860,
+        "height": 765
+      },
+      {
+        "serializedVersion": 2,
+        "x": 888,
+        "y": 67,
+        "width": 861,
+        "height": 765
+      }
+    ]
+  },
+  {
+    "name": "bar3_ginger_3x1",
+    "source": "bar3_ginger",
+    "breed": "ginger",
+    "expression": "content",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "9f11cf81cb11b8ea899ea6c6883fbaab",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "9f11cf81cb11b8ea899ea6c6883fbaab",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "9f11cf81cb11b8ea899ea6c6883fbaab",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "efa23b4d9f9ce5e3d577c95ea29a6182",
+      "type": 3
+    },
+    "region": {
+      "x": 16,
+      "y": 11,
+      "width": 2140,
+      "height": 703,
+      "xs": [
+        16,
+        729,
+        1443,
+        2156
+      ],
+      "ys": [
+        11,
+        714
+      ],
+      "sourceWidth": 2172,
+      "sourceHeight": 724,
+      "cols": 3,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 16,
+        "y": 10,
+        "width": 713,
+        "height": 703
+      },
+      {
+        "serializedVersion": 2,
+        "x": 729,
+        "y": 10,
+        "width": 714,
+        "height": 703
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1443,
+        "y": 10,
+        "width": 713,
+        "height": 703
+      }
+    ]
+  },
+  {
+    "name": "bar4_gray_4x1",
+    "source": "bar4_gray",
+    "breed": "gray",
+    "expression": "relaxed",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "f8641f4543718ac7d96797cf3b446b75",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "f8641f4543718ac7d96797cf3b446b75",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "f8641f4543718ac7d96797cf3b446b75",
+        "type": 3
+      },
+      {
+        "fileID": 21300103,
+        "guid": "f8641f4543718ac7d96797cf3b446b75",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "74a489391e509a3d7e2f255504d46f14",
+      "type": 3
+    },
+    "region": {
+      "x": 11,
+      "y": 11,
+      "width": 2042,
+      "height": 719,
+      "xs": [
+        11,
+        522,
+        1032,
+        1542,
+        2053
+      ],
+      "ys": [
+        11,
+        730
+      ],
+      "sourceWidth": 2056,
+      "sourceHeight": 765,
+      "cols": 4,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 11,
+        "y": 35,
+        "width": 511,
+        "height": 719
+      },
+      {
+        "serializedVersion": 2,
+        "x": 522,
+        "y": 35,
+        "width": 510,
+        "height": 719
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1032,
+        "y": 35,
+        "width": 510,
+        "height": 719
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1542,
+        "y": 35,
+        "width": 511,
+        "height": 719
+      }
+    ]
+  },
+  {
+    "name": "bar5_siamese_5x1",
+    "source": "bar5_siamese",
+    "breed": "siamese",
+    "expression": "sleepy",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "37179e71156f16b67500f13a1ee1662d",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "37179e71156f16b67500f13a1ee1662d",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "37179e71156f16b67500f13a1ee1662d",
+        "type": 3
+      },
+      {
+        "fileID": 21300103,
+        "guid": "37179e71156f16b67500f13a1ee1662d",
+        "type": 3
+      },
+      {
+        "fileID": 21300104,
+        "guid": "37179e71156f16b67500f13a1ee1662d",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "17c924339d0a2f05c74e0bc152d18aad",
+      "type": 3
+    },
+    "region": {
+      "x": 38,
+      "y": 52,
+      "width": 2100,
+      "height": 621,
+      "xs": [
+        38,
+        458,
+        878,
+        1298,
+        1718,
+        2138
+      ],
+      "ys": [
+        52,
+        673
+      ],
+      "sourceWidth": 2172,
+      "sourceHeight": 724,
+      "cols": 5,
+      "rows": 1
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 38,
+        "y": 51,
+        "width": 420,
+        "height": 621
+      },
+      {
+        "serializedVersion": 2,
+        "x": 458,
+        "y": 51,
+        "width": 420,
+        "height": 621
+      },
+      {
+        "serializedVersion": 2,
+        "x": 878,
+        "y": 51,
+        "width": 420,
+        "height": 621
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1298,
+        "y": 51,
+        "width": 420,
+        "height": 621
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1718,
+        "y": 51,
+        "width": 420,
+        "height": 621
+      }
+    ]
+  },
+  {
+    "name": "square_calico_2x2",
+    "source": "square_calico",
+    "breed": "calico",
+    "expression": "sleeping",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300103,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "3a131839b634fcbb69e6cb5abf074617",
+      "type": 3
+    },
+    "region": {
+      "x": 72,
+      "y": 69,
+      "width": 1139,
+      "height": 1127,
+      "xs": [
+        72,
+        642,
+        1211
+      ],
+      "ys": [
+        69,
+        632,
+        1196
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 2,
+      "rows": 2
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 72,
+        "y": 58,
+        "width": 570,
+        "height": 564
+      },
+      {
+        "serializedVersion": 2,
+        "x": 642,
+        "y": 58,
+        "width": 569,
+        "height": 564
+      },
+      {
+        "serializedVersion": 2,
+        "x": 72,
+        "y": 622,
+        "width": 570,
+        "height": 563
+      },
+      {
+        "serializedVersion": 2,
+        "x": 642,
+        "y": 622,
+        "width": 569,
+        "height": 563
+      }
+    ]
+  },
+  {
+    "name": "square_calico_3x3",
+    "source": "square_calico",
+    "breed": "calico",
+    "expression": "sleeping",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 2
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300104,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300105,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300106,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300107,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300108,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300109,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300110,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300111,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      },
+      {
+        "fileID": 21300112,
+        "guid": "76a492875a3c946259c9b1cf2ed8280a",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "3a131839b634fcbb69e6cb5abf074617",
+      "type": 3
+    },
+    "region": {
+      "x": 72,
+      "y": 69,
+      "width": 1139,
+      "height": 1127,
+      "xs": [
+        72,
+        452,
+        831,
+        1211
+      ],
+      "ys": [
+        69,
+        445,
+        820,
+        1196
+      ],
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "cols": 3,
+      "rows": 3
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 72,
+        "y": 58,
+        "width": 380,
+        "height": 376
+      },
+      {
+        "serializedVersion": 2,
+        "x": 452,
+        "y": 58,
+        "width": 379,
+        "height": 376
+      },
+      {
+        "serializedVersion": 2,
+        "x": 831,
+        "y": 58,
+        "width": 380,
+        "height": 376
+      },
+      {
+        "serializedVersion": 2,
+        "x": 72,
+        "y": 434,
+        "width": 380,
+        "height": 375
+      },
+      {
+        "serializedVersion": 2,
+        "x": 452,
+        "y": 434,
+        "width": 379,
+        "height": 375
+      },
+      {
+        "serializedVersion": 2,
+        "x": 831,
+        "y": 434,
+        "width": 380,
+        "height": 375
+      },
+      {
+        "serializedVersion": 2,
+        "x": 72,
+        "y": 809,
+        "width": 380,
+        "height": 376
+      },
+      {
+        "serializedVersion": 2,
+        "x": 452,
+        "y": 809,
+        "width": 379,
+        "height": 376
+      },
+      {
+        "serializedVersion": 2,
+        "x": 831,
+        "y": 809,
+        "width": 380,
+        "height": 376
+      }
+    ]
+  },
+  {
+    "name": "corner3_ginger_2x2",
+    "source": "corner3_ginger",
+    "breed": "ginger",
+    "expression": "grooming",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "8daf8bb70d07b31f6b3b18018bdc8936",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "8daf8bb70d07b31f6b3b18018bdc8936",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "8daf8bb70d07b31f6b3b18018bdc8936",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "efa23b4d9f9ce5e3d577c95ea29a6182",
+      "type": 3
+    },
+    "region": {
+      "x": 49,
+      "y": 38,
+      "width": 1219,
+      "height": 1115,
+      "xs": [
+        49,
+        768,
+        1268
+      ],
+      "ys": [
+        38,
+        596,
+        1153
+      ],
+      "sourceWidth": 1312,
+      "sourceHeight": 1199,
+      "cols": 2,
+      "rows": 2
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 49,
+        "y": 46,
+        "width": 719,
+        "height": 557
+      },
+      {
+        "serializedVersion": 2,
+        "x": 49,
+        "y": 603,
+        "width": 719,
+        "height": 558
+      },
+      {
+        "serializedVersion": 2,
+        "x": 768,
+        "y": 46,
+        "width": 500,
+        "height": 557
+      }
+    ]
+  },
+  {
+    "name": "corner4_calico_2x3",
+    "source": "corner4_calico",
+    "breed": "calico",
+    "expression": "surprised",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 0
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "d1c1027b4b7ca1d66ba133218b016513",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "d1c1027b4b7ca1d66ba133218b016513",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "d1c1027b4b7ca1d66ba133218b016513",
+        "type": 3
+      },
+      {
+        "fileID": 21300103,
+        "guid": "d1c1027b4b7ca1d66ba133218b016513",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "3a131839b634fcbb69e6cb5abf074617",
+      "type": 3
+    },
+    "region": {
+      "x": 34,
+      "y": 28,
+      "width": 956,
+      "height": 1464,
+      "xs": [
+        34,
+        722,
+        990
+      ],
+      "ys": [
+        28,
+        516,
+        1004,
+        1492
+      ],
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "cols": 2,
+      "rows": 3
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 34,
+        "y": 44,
+        "width": 688,
+        "height": 488
+      },
+      {
+        "serializedVersion": 2,
+        "x": 34,
+        "y": 532,
+        "width": 688,
+        "height": 488
+      },
+      {
+        "serializedVersion": 2,
+        "x": 34,
+        "y": 1020,
+        "width": 688,
+        "height": 488
+      },
+      {
+        "serializedVersion": 2,
+        "x": 722,
+        "y": 44,
+        "width": 268,
+        "height": 488
+      }
+    ]
+  },
+  {
+    "name": "tee_tuxedo_3x2",
+    "source": "tee_tuxedo",
+    "breed": "tuxedo",
+    "expression": "playful",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "65c3c2d83d5ddc0df0cd274aaa3bb76f",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "65c3c2d83d5ddc0df0cd274aaa3bb76f",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "65c3c2d83d5ddc0df0cd274aaa3bb76f",
+        "type": 3
+      },
+      {
+        "fileID": 21300103,
+        "guid": "65c3c2d83d5ddc0df0cd274aaa3bb76f",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "d52b41814fa2eb0fbbe5606daacf91e1",
+      "type": 3
+    },
+    "region": {
+      "x": 37,
+      "y": 69,
+      "width": 1460,
+      "height": 828,
+      "xs": [
+        37,
+        373,
+        1161,
+        1497
+      ],
+      "ys": [
+        69,
+        483,
+        897
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "cols": 3,
+      "rows": 2
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 37,
+        "y": 127,
+        "width": 336,
+        "height": 414
+      },
+      {
+        "serializedVersion": 2,
+        "x": 373,
+        "y": 127,
+        "width": 788,
+        "height": 414
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1161,
+        "y": 127,
+        "width": 336,
+        "height": 414
+      },
+      {
+        "serializedVersion": 2,
+        "x": 373,
+        "y": 541,
+        "width": 788,
+        "height": 414
+      }
+    ]
+  },
+  {
+    "name": "zigzag_black_3x2",
+    "source": "zigzag_black",
+    "breed": "black",
+    "expression": "surprised",
+    "shape": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      }
+    ],
+    "parts": [
+      {
+        "fileID": 21300100,
+        "guid": "2c853757bda59e1b3d2355a3d8ae4265",
+        "type": 3
+      },
+      {
+        "fileID": 21300101,
+        "guid": "2c853757bda59e1b3d2355a3d8ae4265",
+        "type": 3
+      },
+      {
+        "fileID": 21300102,
+        "guid": "2c853757bda59e1b3d2355a3d8ae4265",
+        "type": 3
+      },
+      {
+        "fileID": 21300103,
+        "guid": "2c853757bda59e1b3d2355a3d8ae4265",
+        "type": 3
+      }
+    ],
+    "small": {
+      "fileID": 21300100,
+      "guid": "fe1d5fc94b5a06102a552d353fa2f736",
+      "type": 3
+    },
+    "region": {
+      "x": 137,
+      "y": 10,
+      "width": 1351,
+      "height": 969,
+      "xs": [
+        137,
+        488,
+        1038,
+        1488
+      ],
+      "ys": [
+        10,
+        630,
+        979
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "cols": 3,
+      "rows": 2
+    },
+    "rects": [
+      {
+        "serializedVersion": 2,
+        "x": 137,
+        "y": 45,
+        "width": 351,
+        "height": 349
+      },
+      {
+        "serializedVersion": 2,
+        "x": 488,
+        "y": 45,
+        "width": 550,
+        "height": 349
+      },
+      {
+        "serializedVersion": 2,
+        "x": 488,
+        "y": 394,
+        "width": 550,
+        "height": 620
+      },
+      {
+        "serializedVersion": 2,
+        "x": 1038,
+        "y": 394,
+        "width": 450,
+        "height": 620
+      }
+    ]
+  }
+]

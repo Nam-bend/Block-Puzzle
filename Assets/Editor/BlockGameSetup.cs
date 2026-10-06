@@ -16,10 +16,7 @@ public sealed class BlockGameSetup : IPreprocessBuildWithReport
         var art = AssetDatabase.LoadAssetAtPath<BlockArt>(path);
         if (art != null) return; // Preserve sprites assigned by the designer.
         art = ScriptableObject.CreateInstance<BlockArt>(); AssetDatabase.CreateAsset(art, path);
-        art.background = Sprite("Background"); art.empty = Sprite("Squares/BackGrid"); art.highlight = Sprite("Squares/HighlightGrid");
-        art.popup = Sprite("WinLosePopup/PopupBackground"); art.gameOver = Sprite("WinLosePopup/GameOver"); art.retry = Sprite("WinLosePopup/Try Again"); art.back = Sprite("MainMenu/Back");
-        art.blocks = new[] { "Blue", "Green", "Ornage", "Pink", "Red", "Violet", "Yellow", "NavyBlue" }.Select(n => Sprite("Squares/" + n)).Where(s => s != null).ToArray();
+        BlockCatThemeSetup.AssignArt(art);
         EditorUtility.SetDirty(art); AssetDatabase.SaveAssets();
     }
-    static Sprite Sprite(string name) => AssetDatabase.LoadAllAssetsAtPath("Assets/Texture/" + name + ".png").OfType<Sprite>().FirstOrDefault();
 }

@@ -27,7 +27,8 @@ public static class BlockSceneSetup
         EditScene("Assets/Scenes/Game.unity", scene => SetUpGame(scene, art));
         EditScene("Assets/Scenes/SampleScene.unity", SetUpMenu);
         AssetDatabase.SaveAssets();
-        Debug.Log("Block Blast: scene UI, prefab grid/pieces and button events are ready.");
+        BlockCatThemeSetup.Apply();
+        Debug.Log("Block Blast: warm scene UI, prefab grid/pieces and button events are ready.");
     }
     static void EditScene(string path, Action<Scene> edit)
     {
@@ -162,7 +163,6 @@ public static class BlockSceneSetup
         var drag = Rect(root, "DragLayer", Vector2.zero, Vector2.zero); Stretch(drag);
         var panel = Image(root, "GameOverPanel", null, Vector2.zero, Vector2.zero); Stretch(panel.rectTransform); panel.color = new Color(0,0,0,.8f);
         Image(panel.transform, "PopupBackground", art.popup, Vector2.zero, new Vector2(800,720));
-        Image(panel.transform, "GameOverTitle", art.gameOver, new Vector2(0,230), new Vector2(600,130)).preserveAspect = true;
         var finalScore = Label(panel.transform, "FinalScore", "DIEM  0\nKY LUC  0", Vector2.zero, 48);
         var retry = Button(panel.transform, "TryAgainButton", "CHOI LAI", new Vector2(0,-230), new Vector2(430,120));
         if (art.retry != null) { retry.image.sprite = art.retry; retry.image.color = Color.white; retry.GetComponentInChildren<TMP_Text>().text = ""; }

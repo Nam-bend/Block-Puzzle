@@ -1,0 +1,76 @@
+{
+  "catSources": 16,
+  "poses": 17,
+  "sprites": 49,
+  "liveIntegration": true,
+  "footprints": [
+    {
+      "pose": "single_calico_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "single_black_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "single_white_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "single_gray_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "single_ginger_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "single_tuxedo_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "single_siamese_1x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "bar2_tuxedo_2x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "bar3_ginger_3x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "bar4_gray_4x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "bar5_siamese_5x1",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "square_calico_2x2",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "square_calico_3x3",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "corner3_ginger_2x2",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "corner4_calico_2x3",
+      "opaquePixelsOutsideFootprintPercent": 0.8
+    },
+    {
+      "pose": "tee_tuxedo_3x2",
+      "opaquePixelsOutsideFootprintPercent": 0.0
+    },
+    {
+      "pose": "zigzag_black_3x2",
+      "opaquePixelsOutsideFootprintPercent": 2.274
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 76a492875a3c946259c9b1cf2ed8280a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300100
+    second: square_calico_2x2_0_0
+  - first:
+      213: 21300101
+    second: square_calico_2x2_1_0
+  - first:
+      213: 21300102
+    second: square_calico_2x2_0_1
+  - first:
+      213: 21300103
+    second: square_calico_2x2_1_1
+  - first:
+      213: 21300104
+    second: square_calico_3x3_0_0
+  - first:
+      213: 21300105
+    second: square_calico_3x3_1_0
+  - first:
+      213: 21300106
+    second: square_calico_3x3_2_0
+  - first:
+      213: 21300107
+    second: square_calico_3x3_0_1
+  - first:
+      213: 21300108
+    second: square_calico_3x3_1_1
+  - first:
+      213: 21300109
+    second: square_calico_3x3_2_1
+  - first:
+      213: 21300110
+    second: square_calico_3x3_0_2
+  - first:
+      213: 21300111
+    second: square_calico_3x3_1_2
+  - first:
+      213: 21300112
+    second: square_calico_3x3_2_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: square_calico_2x2_0_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 58
+        width: 570
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9652468469af7bc6b825c763b841a
+      internalID: 21300100
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_2x2_1_0
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 58
+        width: 569
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb13b6a7147ca313287fc8051748a3
+      internalID: 21300101
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_2x2_0_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 622
+        width: 570
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b8f134d4d9f963845cf1e696c0fb99
+      internalID: 21300102
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_2x2_1_1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 622
+        width: 569
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e1d8db364f4a7c67016cc40f05ffa1
+      internalID: 21300103
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_0_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 58
+        width: 380
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b36073a06fb843e8143ad6316aa88
+      internalID: 21300104
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_1_0
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 58
+        width: 379
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a053cdcc6887bcf0b878bb288239de5
+      internalID: 21300105
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_2_0
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 58
+        width: 380
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed2c4fc7bdbc7126f00af73f6fb48a9
+      internalID: 21300106
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_0_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 434
+        width: 380
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df68ca1eb9dfeedf427ceb4dcd40b8
+      internalID: 21300107
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_1_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 434
+        width: 379
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f4bb197f48749e43ad5370be8813f7
+      internalID: 21300108
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_2_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 434
+        width: 380
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca757a8dffa63166507af9b8910cf6b
+      internalID: 21300109
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_0_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 809
+        width: 380
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d49e23f3def96371c98e4be066bc2
+      internalID: 21300110
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_1_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 809
+        width: 379
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23556237b45019a36e9f88c07bab564b
+      internalID: 21300111
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square_calico_3x3_2_2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 809
+        width: 380
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: null
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ac312de194e06359ffabf6f9e7da5
+      internalID: 21300112
+      vertices: []
+      indices: null
+      edges: []
+      weights: []
+    outline: []
+    customData: null
+    physicsShape: []
+    bones: []
+    spriteID: null
+    internalID: 0
+    vertices: []
+    indices: null
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      square_calico_2x2_0_0: 21300100
+      square_calico_2x2_1_0: 21300101
+      square_calico_2x2_0_1: 21300102
+      square_calico_2x2_1_1: 21300103
+      square_calico_3x3_0_0: 21300104
+      square_calico_3x3_1_0: 21300105
+      square_calico_3x3_2_0: 21300106
+      square_calico_3x3_0_1: 21300107
+      square_calico_3x3_1_1: 21300108
+      square_calico_3x3_2_1: 21300109
+      square_calico_3x3_0_2: 21300110
+      square_calico_3x3_1_2: 21300111
+      square_calico_3x3_2_2: 21300112
+  mipmapLimitGroupName: null
+  pSDRemoveMatte: 0
+  userData: null
+  assetBundleName: null
+  assetBundleVariant: null
